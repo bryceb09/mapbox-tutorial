@@ -7,3 +7,4 @@ The very first thing needed before creating a basemap is to create a Mapbox acco
 
 [Mapbox Sign-Up](https://account.mapbox.com/auth/signup/?route-to=%22/%22)
 
+![](signup)
