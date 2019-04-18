@@ -20,3 +20,5 @@ The Mapbox studio is where you will be creating your basemaps. Upon entering the
 ![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/studio.png)
 
 ![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/style.png)
+
+![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/maps.png)
