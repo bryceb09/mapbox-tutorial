@@ -15,7 +15,7 @@ The very first thing needed before creating a basemap is to create a Mapbox acco
 
 ## Entering the Studio
 
-The Mapbox studio is where you will be creating your basemaps. Upon entering the studio you will be taken to a styles page. The purpose of the styles page is to allow the user to either use a style provided by Mapbox or create a completely blank map. The styles provided by Mapbox are great if you dont want to start from scratch and need something basic or want something a little more creative. 
+The Mapbox studio is where you will be creating your basemaps. Upon entering the studio you will be taken to a styles page. The purpose of the styles page is to allow the user to either use a style provided by Mapbox or create a completely blank map. The styles provided by Mapbox are great if you don't want to start from scratch and need something basic or want something a little more creative. 
 
 
 ![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/studio.png)
@@ -26,14 +26,11 @@ The Mapbox studio is where you will be creating your basemaps. Upon entering the
 
 ## Creating the Basemap
 
-Once you have selected a style you will be able to modify the basemap you selected. In Mapbox you can change evrything about the basemap such as color, labels, polygons, and much much more. Once you have your map the way you like it you simply need to publish the map. After that you can share it via a url or get the physical code to be embeded into a html.
+Once you have selected a style you will be able to modify the basemap you selected. In Mapbox you can change everything about the basemap such as color, labels, polygons, and much much more. Once you have your map the way you like it you simply need to publish the map. After that, you can share it via a URL or get the physical code to be embedded into an html.
 
 ![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/dark.png)
 
-
-
-
-
+## Mapbox
 
 ![](https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif)
 
