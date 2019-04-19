@@ -26,7 +26,7 @@ The Mapbox studio is where you will be creating your basemaps. Upon entering the
 
 ## Creating the Basemap
 
-Once you have selected a style you will be able to modify the basemap you selected. In Mapbox you can change everything about the basemap such as color, labels, polygons, and much much more. Once you have your map the way you like it you simply need to publish the map. After that, you can share it via a URL or get the physical code to be embedded into an html.
+Once you have selected a style you will be able to modify the basemap you selected. In Mapbox you can change everything about the basemap such as color, labels, polygons, and much much more. Once you have your map the way you like it you simply need to publish the map. After that, you can share it via a URL or get the physical code to be embedded into an HTML.
 
 ![](https://github.com/bryceb09/mapbox-tutorial/blob/master/img/dark.png)
 
